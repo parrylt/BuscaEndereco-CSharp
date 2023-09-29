@@ -1,0 +1,11 @@
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.exe.config
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.exe
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.pdb
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.Form1.resources
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.Properties.Resources.resources
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.exe
+C:\Users\Alunos\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.pdb
